@@ -34,6 +34,8 @@ Make a user-friendly interface (GUI) which allow the user to select the MDL file
 Contain the Primary Stage which contain the "FirstPane" object
 
 
+## The Primary Stage Photo
+![](https://github.com/Anas2108/SIMULINK_VIEWER_Project/blob/main/Snapshots%20of%20project/first%20pane.png)
 
 
 
