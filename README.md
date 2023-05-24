@@ -41,6 +41,6 @@ Contain the Primary Stage which contain the "FirstPane" object
 ![SIMULINK View](https://github.com/Anas2108/SIMULINK_VIEWER_Project/blob/main/Snapshots%20of%20project/simulink.png)
 
 ## Important Note 
- to use this project you have two ways
--  Put all this Classes in package with name "Project"
--  Change the imported package name to your own package name in each file
+ to use this project 
+- Download the "Project.zip" file then extract it and run the Batch (Compiled using JDK 1.8)
+in "jar" file 
