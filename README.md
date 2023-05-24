@@ -1,3 +1,12 @@
+<head>
+<style>
+img {
+  width: 50%;
+  height: auto;
+}
+</style>
+</head>
+
 # SIMULINK VIEWER Project
 ## Description: 
 The aim of this project is to develop a software tool that can read Simulink MDL files 
