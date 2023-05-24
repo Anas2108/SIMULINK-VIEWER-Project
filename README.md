@@ -17,20 +17,23 @@ interface (GUI)
 - readMDLfile 
  Read the needed data from MDL file
 
-- Block
+- Block:
 Creat array of Objects from this class and save the data which we got from Class "readMDLfile" in the appropriate block
 
-- Point
+- Point:
 Creat array of Object from this class to save the coordienates of the branching lines
 which we get from "readMDLfile"
 
-- SimulinkViewer
+- SimulinkViewer:
 Display the Simulink model depend on the  data we get in "Block" and "Point" classes
 
-- FirstPane
+- FirstPane:
 Make a user-friendly interface (GUI) which allow the user to select the MDL file 
 
--Simuklink_App
-Contain the Primary Stage
+- Simuklink_App:
+Contain the Primary Stage which contain the "FirstPane" object
+
+
+
 
 
