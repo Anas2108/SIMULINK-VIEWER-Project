@@ -6,6 +6,6 @@ interface (GUI)
 
 ## Tools and Technologist we used :
 - Java JDK 19
-- ![Apache NetBeans 15 IDE 15]([https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png](https://www.google.com/search?q=netbeans&sxsrf=APwXEdeWEGe8sxVbvxkQC6AgtiMgd6aWbQ:1684893968449&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiR0uST74z_AhW-VqQEHXMlADMQ_AUoAXoECAIQAw&biw=1396&bih=649&dpr=1.38#imgrc=cH5s_otBnycJ5M))
+- ![Apache NetBeans 15 IDE 15](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fnetbeans%2Fstatus%2F1053252022663831552%3Flang%3Dar-x-fm&psig=AOvVaw2K_HcW0mRT6jmZ_1mA8Vni&ust=1684980830824000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNj89_DwjP8CFQAAAAAdAAAAABAE)
 - 
 
