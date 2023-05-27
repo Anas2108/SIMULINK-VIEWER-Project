@@ -1,11 +1,17 @@
 
 # SIMULINK VIEWER Project
+
+## Project Members
+- 2001584	Anas Hamed Ahmed Hamed 
+- 2000205	Ahmed yousry mohamed mousa
+- 2001273	Mariam ahmed abdelgallil
+- 2001528	Youssuf Ahmed Ebrahim
 ## Description: 
 The aim of this project is to develop a software tool that can read Simulink MDL files 
 and display their contents in a user-friendly way using a Java-based graphical user 
 interface (GUI)
 
-##Features:
+## Features:
 - Load and parse Simulink MDL files
 - Display the Simulink model in a hierarchical structure
 
